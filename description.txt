@@ -1,0 +1,5 @@
+No Armor is a mod that does not allow you to wear armor.
+Visually it may look like you are wearing the armor, but this is a bug and you are not.
+You can not and will not ever get any defense or armor effects.
+Use for a fun challenge in your playthrough!
+Thanks to direwolf420 for helping me with this.

@@ -1,0 +1,3 @@
+displayName = No Armor
+author = efcawesome
+version = 0.1
